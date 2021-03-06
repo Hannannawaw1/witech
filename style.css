@@ -1,3 +1,19 @@
-body{
-    min-height: 2000px;
+.header{
+  position:static;
+}
+
+
+.footer{
+  position: static; 
+  height:30px;
+  
+  
+}
+.footer .text{
+  background-color:#c8a2c8;
+  text-align: center;
+  font-weight: none;
+  font-size: 24px;
+  color:white;
+  margin-bottom: 1rem;
 }
