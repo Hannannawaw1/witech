@@ -1,19 +1,21 @@
-.header{
-  position:static;
+#header {
+  position: fixed;
 }
 
-
-.footer{
-  position: static; 
-  height:30px;
-  
-  
+.footer {
+  position: static;
+  height: 30px;
 }
-.footer .text{
-  background-color:#c8a2c8;
+#contact {
+  color: white;
+  text-align: left;
+  font-size: 20px;
+}
+.footer .text {
+  background-color: #c8a2c8;
   text-align: center;
   font-weight: none;
   font-size: 24px;
-  color:white;
+  color: white;
   margin-bottom: 1rem;
 }
